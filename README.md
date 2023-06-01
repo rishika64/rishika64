@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rishika!</h1>
-<h3 align="center">A passionate data analyst and ML engineer, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.</h3>
+- Hi 👋, I'm Rishika!
+
+- I'm a passionate data analyst and ML engineer, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
 - 🔭 I’m currently working on [Machine Learning Specialization](https://github.com/rishika64/Machine-Learning-Specialization-Andrew.Ng)
 
