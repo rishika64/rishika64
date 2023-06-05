@@ -2,7 +2,7 @@
 
 - I'm a passionate data analyst and ML engineer, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
-- 🔭 I’m currently working on [Machine Learning Specialization](https://github.com/rishika64/Machine-Learning-Specialization-Andrew.Ng)
+- 🔭 I’m currently working on [vCard Portfolio Project](https://github.com/rishika64/vcard-portfolio)
 
 - 🌱 I’m currently learning **Open Source Development & DevOps**
 
