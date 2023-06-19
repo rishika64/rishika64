@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/rishika13/">Rishika </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 
-- I'm a final-year student and a Data Science enthusiast from [Delhi, India](https://goo.gl/maps/hUzn34oKGRkwZFcD8) 🇮🇳:
+- I'm a final-year undergrad student and a Data Science enthusiast from [Delhi, India](https://goo.gl/maps/hUzn34oKGRkwZFcD8) 🇮🇳:
 
 - Since I was young, I have always enjoyed solving puzzles. So that’s how I look at big data sets: to me, it is one big puzzle waiting to be solved. Finding patterns no one else sees is a challenge to me.
 
