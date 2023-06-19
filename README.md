@@ -1,12 +1,12 @@
-- Hi 👋, I'm Rishika!
+<h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/rishika13/">Rishika </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 
-- I'm a passionate data analyst and ML engineer, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
+- I'm a passionate data analyst and ML engineer, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms, and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
-- 🔭 I’m currently working on [vCard Portfolio Project](https://github.com/rishika64/vcard-portfolio)
+- 🔭 I’m currently working on [Personal AI Yoga Trainer](https://github.com/rishika64/Personal-AI-Yoga-Trainer)
 
 - 🌱 I’m currently learning **Open Source Development & DevOps**
 
-- 👯 I’m looking to collaborate on **Recommendation systems**
+- 👯 I’m looking to collaborate on **Web Scraping**
 
 - 💬 Ask me about **Data analysis and visualization**
 
@@ -20,5 +20,5 @@
 <a href="https://www.hackerrank.com/rishika13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishika13" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika64&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika64&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
