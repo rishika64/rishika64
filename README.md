@@ -6,7 +6,7 @@
 
 - I'm passionate about data analysis and ML development, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms, and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
-- 🔭 I’m currently working on [Personal AI Yoga Trainer](https://github.com/rishika64/Personal-AI-Yoga-Trainer)
+- 🔭 I’m currently working on [Multi-Model Video & Audio Metadata Tagging](https://github.com/rishika64/Multi-Model-Video-Audio-Metadata-Tagging)
 
 - 👯 I’m looking to collaborate on **Web Scraping**
 
