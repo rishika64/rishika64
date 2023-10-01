@@ -20,10 +20,8 @@
 <a href="https://www.hackerrank.com/rishika13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishika13" height="30" width="40" /></a>
 </p>
 
-<!--[![Rishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika64&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rishika64&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rishika64&rank_icon=github&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika64&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <br>
   <br>
