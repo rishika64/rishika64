@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/rishika13/">Rishika </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 
-- I'm a Master's student and a Data Science enthusiast from [University of Florida, USA]([https://goo.gl/maps/hUzn34oKGRkwZFcD8](https://maps.app.goo.gl/eNxCPuR87LPuHTiTA)):
+- I'm a Master's student and a Data Science enthusiast from [University of Florida, USA](https://maps.app.goo.gl/eNxCPuR87LPuHTiTA):
 
 - I'm passionate about data analysis and ML development, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms, and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
