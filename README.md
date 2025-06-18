@@ -1,10 +1,10 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/rishika13/">Rishika </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 
-- I'm a Master's student and a Data Science enthusiast from [University of Florida, USA](https://maps.app.goo.gl/eNxCPuR87LPuHTiTA):
+- I'm a Master's student and a ML enthusiast from [University of Florida, USA](https://maps.app.goo.gl/eNxCPuR87LPuHTiTA):
 
 - I'm passionate about data analysis and ML development, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms, and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
-- 🔭 I’m currently working on [Multi-Model Video & Audio Metadata Tagging](https://github.com/rishika64/Multi-Model-Video-Audio-Metadata-Tagging)
+- 🔭 I’m currently working on [Automated Curriculum Testing Tool](https://github.com/rishika64/Automated-Curriculum-Testing-Tool)
 
 - 👯 I’m looking to collaborate on **Web Scraping**
 
